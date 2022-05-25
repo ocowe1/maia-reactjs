@@ -1,0 +1,22 @@
+{
+  "name": "maia-reactjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ocowe1/maia-reactjs.git"
+  },
+  "author": "ocowe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ocowe1/maia-reactjs/issues"
+  },
+  "homepage": "https://github.com/ocowe1/maia-reactjs#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
